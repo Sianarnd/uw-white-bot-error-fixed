@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
+global.owner = ['783640768'] //ur owner number
+global.ownername = "➤ᏦᎥᏁᎶ ʀɴᴅ➤"
+global.ytname = "YT: ᴅᴀᴀʀɴᴇꜱꜱ ʀɴᴅ" //ur yt chanel name
+global.socialm = "Insta: " //ur github or insta name
 global.location = "Sri-Lanka" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
+global.botname = "➤ʀɴᴅ ʙᴏᴛᴢ" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Udavin Wijesundara"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.vidmenu = {url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
+global.packname = "➤ʀɴᴅ ꜱᴛɪᴄᴋᴇʀ\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "➤➤➤"
+global.themeemoji = "❏"
+global.reactmoji = "😚"
+global.ownertag = ['770342724'] //ur owner tag
+global.ownernummenu = ['770342724'] //ur owner number in menu and all
+global.watermark = "©➤ʀɴᴅ ᴘᴜʙʟɪᴄ ᴇᴅɪꜱᴏɴ." //ur watermark
+global.botscript = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh"
+global.linkz1 = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh"
+global.linkz2 = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
